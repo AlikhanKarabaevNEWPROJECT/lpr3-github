@@ -1,3 +1,4 @@
 ﻿## Unreleased
-- Add .gitignore for build and logs artifacts
-- Add base HTML page and base CSS styles
+- Add greeting script
+- Connect Google Font Sixtyfour Convergence
+- Add header, main content and footer layout

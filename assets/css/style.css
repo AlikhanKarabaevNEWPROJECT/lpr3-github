@@ -43,3 +43,10 @@ body {
   padding: 14px 16px;
 }
 .card h2 { margin-bottom: 8px; }
+
+.site-footer {
+  margin-top: 18px;
+  padding: 14px 0;
+  opacity: .75;
+  text-align: center;
+}

@@ -34,3 +34,12 @@ body {
 .nav a:hover { opacity: 1; text-decoration: underline; }
 
 .site-main { margin-top: 18px; }
+
+.hero { padding: 18px 0 10px; }
+.card {
+  margin-top: 14px;
+  border: 1px solid rgba(0,0,0,.2);
+  border-radius: 14px;
+  padding: 14px 16px;
+}
+.card h2 { margin-bottom: 8px; }
